@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 # sekali-lagi
 hallo
 =======
-<<<<<<< HEAD
 # testingteros
 hahahahahha
 =======
